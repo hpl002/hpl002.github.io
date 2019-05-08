@@ -1,0 +1,9 @@
+.card_min311px{
+    min-width:311px;
+ 
+}
+
+div.card-deck > div:nth-child(1),div.card-deck > div:nth-child(3){
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+}
